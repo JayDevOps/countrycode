@@ -1,0 +1,28 @@
+{
+  "name": "country-code",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JayDevOps/country-code.git"
+  },
+  "author": {
+    "name": "Jay DevOps LLC",
+    "email": "22436725+vairamsvsjdo@users.noreply.github.com"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JayDevOps/country-code.git/issues"
+  },
+  "main": "country-code.umd.js",
+  "module": "country-code.js",
+  "jsnext:main": "country-code.js",
+  "typings": "country-code.d.ts",
+  "dependencies": {
+    "@angular/core": "^5.2.4",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  }
+}
